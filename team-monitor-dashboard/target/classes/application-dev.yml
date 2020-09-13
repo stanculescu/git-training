@@ -1,0 +1,8 @@
+logging:
+  level:
+    root: debug
+
+spring:
+  h2:
+    console:
+      enabled: true
